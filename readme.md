@@ -1,1 +1,1 @@
-This is a web calculator based on javascript.
+Simple calculator, based on html, css, javascript.
